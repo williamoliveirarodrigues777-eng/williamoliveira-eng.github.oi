@@ -58,7 +58,7 @@ Olá! Sou o William, estudante de TI focado em transformar conhecimento em solu�
 ## 📫 Contato
 
 - 💼 *GitHub:* github.com/williamoliveirarodrigues777-eng
-- 📧 *E-mail:* (se quiser, coloca aqui seu e-mail)
+- 📧 *E-mail:* 
 - 📍 *Localização:* Goiás — Brasil
 
 ---
